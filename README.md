@@ -25,5 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nassimspace&show_icons=true&locale=en" alt="nassimspace" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nassimspace&" alt="nassimspace" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nassimspace&" alt="Connect with me on Github!" /></p>
 
