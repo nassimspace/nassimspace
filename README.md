@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nassimspace" target="blank"><img src="https://img.shields.io/twitter/follow/nassimspace?logo=twitter&style=for-the-badge" alt="nassimspace" /></a> </p>
 
-- 🌱 I’m currently learning **Firebase, Web3 Development and a bunch of other stuff (my 2 browsers hate me because of my poor bookmark management skills..)**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/nassim-abdellaoui/](https://www.linkedin.com/in/nassim-abdellaoui/)
-
-- ⚡ Fun fact, **I occasionally use coffee and craft beers to save the world from bad designs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
